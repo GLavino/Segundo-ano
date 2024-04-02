@@ -21,4 +21,6 @@
     margin: 0 16px;
     font-size: 24px;
 }
-.titulo-texto{}
+.apresentação{ 
+    background-image: linear-gradient(rgba(67, 104, 80, 1));
+}
