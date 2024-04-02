@@ -21,6 +21,9 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.texto-paragrafo{
+    padding: 24px;
+}
 .apresentação{ 
     background-image: linear-gradient(rgba(67, 104, 80, 1));
 }
