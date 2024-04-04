@@ -22,7 +22,7 @@
     font-size: 24px;
 }
 .apresentação{ 
-    background-image: linear-gradient(rgba(67, 104, 80, 1),rgba(18, 55, 42, 1));
+    background-image: linear-gradient(rgba(18, 55, 42, 1),rgba(67, 104, 80, 1));
     color: aliceblue;
     display: flex;
     justify-content: center;
