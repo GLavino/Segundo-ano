@@ -21,8 +21,6 @@
     margin: 0 16px;
     font-size: 24px;
 }
-
-}
 .apresentação{ 
     background-image: linear-gradient(rgba(67, 104, 80, 1),rgba(18, 55, 42, 1));
     color: aliceblue;
@@ -38,4 +36,5 @@
     padding: 24px;
 }
 .imagem-texto{
-    width: 25%;
+    width: 25%; 
+}
