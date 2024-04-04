@@ -21,12 +21,21 @@
     margin: 0 16px;
     font-size: 24px;
 }
-.texto-paragrafo{
-    padding: 24px;
+
 }
 .apresentação{ 
     background-image: linear-gradient(rgba(67, 104, 80, 1));
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 .escola-div-conteudo{
     width: 35%;
 }
+.texto-paragrafo{
+    padding: 24px;
+}
+.imagem-texto{
+    width: 25%;
