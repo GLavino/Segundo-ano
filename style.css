@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    width: 5%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
@@ -34,9 +34,6 @@
 }
 .Titulo-texto{
     padding: 24px 0;
-}
-.texto-paragrafo{
-    padding: 24px;
 }
 .imagem-texto{
     width: 25%; 
