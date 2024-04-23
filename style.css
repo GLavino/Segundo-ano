@@ -81,5 +81,6 @@
 .texto-rodape{
 color: aliceblue;
 text-align: center;
-font-size: 85%;
+font-size: 89%;
+padding: 0 0 5px 0;
 }
